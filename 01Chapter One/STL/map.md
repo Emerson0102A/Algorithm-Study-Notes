@@ -1,5 +1,8 @@
 ### map
 
+默认按照键值的升序排序
+{1,3}，{2,4}，{3,3}
+
 insert(key, value)
 
 erase(k),  erase(v)
