@@ -8,4 +8,4 @@ This is a repository for recording my algorithm learning process, with the follo
 To motivate myself to study algorithms daily.
 To store notes in the cloud and prevent loss.
 To turn GitHub contributions green every day for the sake of showing off.
-(translated by ChatGpt)
+
