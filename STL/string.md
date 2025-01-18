@@ -184,3 +184,16 @@ for_each(s.begin(),c.end(),[](char c){
 
 
 
+### 删除特定字符
+
+```cpp
+//input 2006/01/02
+//delete '/'
+string s;cin >> s;
+string S;
+for(int i = 0;i < s.size();++i){
+    if(s[i] != '/') S += s[i];
+}
+//真删啊，哥们？直接新建一个字符串不香吗？
+```
+
