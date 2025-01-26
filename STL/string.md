@@ -197,3 +197,14 @@ for(int i = 0;i < s.size();++i){
 //真删啊，哥们？直接新建一个字符串不香吗？
 ```
 
+
+
+### 去除前导零
+
+```cpp
+    // 去除前导零
+    size_t start_a = a.find_first_not_of('0');
+    size_t start_b = b.find_first_not_of('0');
+    string a_num = (start_a == string::npos) ? "0" : a.substr(start_a);
+    string b_num = (start_b == string::npos) ? "0" : b.substr(start_b);
+```

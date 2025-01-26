@@ -1,0 +1,1 @@
+![image-20250126135457680](C:\Users\Emerson\AppData\Roaming\Typora\typora-user-images\image-20250126135457680.png)

@@ -13,3 +13,15 @@ v.erase(last,v.end());
 
 
 
+### 删除特定值
+
+```cpp
+a.erase(remove(a.begin(),a.end(),max_val),a.end());
+```
+
+### 求和
+
+```cpp
+int sum = accumulate(a.begin(),a.end(),0);
+```
+
