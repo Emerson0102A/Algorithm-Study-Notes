@@ -26,7 +26,7 @@ int fib(int n){
 
 
 
-![image-20241209083917659](C:\Users\Emerson\AppData\Roaming\Typora\typora-user-images\image-20241209083917659.png)
+![image-20241209083917659](fibonacci.png)
 
 ​	这样一个二叉树，时间复杂度为O(2^n)
 
