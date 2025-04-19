@@ -9,6 +9,9 @@ using namespace std;
 
 int main(){
     string s;//s = "  a   b c 112     "
+    if (cin.peek() == '\n') {
+                cin.ignore();
+    }
     getline(cin,s);
     istringstream iss(s);
     int cnt = 0;
